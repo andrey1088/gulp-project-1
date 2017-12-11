@@ -1,0 +1,19 @@
+body {
+  background-color: #fff; }
+
+h1 {
+  background: green; }
+
+.wrapper {
+  width: 970px;
+  font-size: 35px;
+  color: brown;
+  line-height: 45px;
+  margin: 0 auto; }
+
+p {
+  font-size: 20px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
